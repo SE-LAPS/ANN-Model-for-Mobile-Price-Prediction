@@ -51,6 +51,8 @@ The ANN model consists of:
 After training, the model achieves:
 - Loss: [Your model's loss]
 - Accuracy: [Your model's accuracy]
+- ![Screenshot 2024-07-27 104042](https://github.com/user-attachments/assets/6aa29e49-06bc-4568-905f-e11391d5b817)
+
 
 ## Viewing Model Weights
 
