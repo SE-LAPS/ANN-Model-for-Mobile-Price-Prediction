@@ -36,14 +36,7 @@ python mobile_price_classification.py
 3. The script will train the model and save the weights to `ann_model_weights.weights.h5`.
 
 ## Project Structure
-
-mobile-price-classification/
-│
-├── mobile_price_classification.py  # Main script for training the model
-├── view_h5.py                      # Script to view the contents of the .h5 file
-├── Mobile_Price_Classification.csv # Dataset (not included in repo)
-├── requirements.txt                # Required Python packages
-└── README.md                       # This file
+![Screenshot 2024-07-27 102745](https://github.com/user-attachments/assets/98fc2c02-2e06-46e3-b94b-73efad894c8b)
 
 ## Model Architecture
 
